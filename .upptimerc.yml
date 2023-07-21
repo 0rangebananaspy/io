@@ -1,31 +1,65 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: 0rangebananaspy # Your GitHub organization or username, where this repository lives
+repo: io # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: DNS 1
+    check: "tcp-ping"
+    url: 103.241.205.205
+    port: 53
+  - name: DNS 7
+    check: "tcp-ping"
+    url: 103.241.206.206
+    port: 53
+  - name: SISTER-API
+    check: "tcp-ping"
+    url: 103.241.205.115
+    port: 80
+  - name: SIAKAD
+    url: https://siakad.unej.ac.id
+  - name: SIBAJA
+    url: https://sibaja.unej.ac.id
+  - name: SIJAMU
+    url: https://sijamu.unej.ac.id
+  - name: SIKD
+    url: https://sikd.unej.ac.id
+  - name: SIMANGGA
+    url: https://simangga.unej.ac.id
+  - name: SIMKEU
+    url: https://simkeu.unej.ac.id
+  - name: SIMPEG
+    url: https://siakad.unej.ac.id/kepegawaian/simpeg
+  - name: SIREMUN
+    url: https://siremun.unej.ac.id
+  - name: MMP
+    url: https://mmp.unej.ac.id
+  - name: MBKM
+    url: https://mbkm.unej.ac.id
+  - name: E-Dokumen
+    url: https://edokumen.unej.ac.id
+  - name: E-Surat
+    url: https://siakad.unej.ac.id/surat/listsurat
+  - name: UC3
+    url: https://uc3.unej.ac.id
+  - name: SSO
+    url: https://sso.unej.ac.id
+  - name: WEB UNEJ (unej.ac.id)
+    url: https://unej.ac.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: io.unej.id
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/xammmm-1.png
+  name: Status Layanan Digital
+  introTitle: "**SLD** is the PWA uptime monitor and status page, built with Svelte and Sapper, powered entirely by GitHub. Created by t.me/orangebananaspy."
+  introMessage: SLD monitoring **real-time** data from our repository. All the services are accessed outside UNEJ network.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Ask me anything
+      href: https://t.me/orangebananaspy
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
