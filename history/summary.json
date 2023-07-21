@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/io.unej.id.ico",
     "slug": "sld",
     "status": "up",
-    "uptime": "56.63%",
-    "uptimeDay": "56.63%",
-    "uptimeWeek": "56.63%",
-    "uptimeMonth": "56.63%",
-    "uptimeYear": "56.63%",
+    "uptime": "62.40%",
+    "uptimeDay": "62.40%",
+    "uptimeWeek": "62.40%",
+    "uptimeMonth": "62.40%",
+    "uptimeYear": "62.40%",
     "time": 1084,
     "timeDay": 1084,
     "timeWeek": 1084,
     "timeMonth": 1084,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2023-07-21": 263
+      "2023-07-21": 250
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 642
+      "2023-07-21": 701
     }
   },
   {
@@ -206,18 +206,20 @@
     "url": "https://mmp.unej.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/mmp.unej.ac.id.ico",
     "slug": "mmp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3060,
-    "timeDay": 3060,
-    "timeWeek": 3060,
-    "timeMonth": 3060,
-    "timeYear": 3060,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 3088,
+    "timeDay": 3088,
+    "timeWeek": 3088,
+    "timeMonth": 3088,
+    "timeYear": 3088,
+    "dailyMinutesDown": {
+      "2023-07-21": 7
+    }
   },
   {
     "name": "E-SKP",
@@ -236,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 393
+      "2023-07-21": 451
     }
   },
   {
@@ -245,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/edokumen.unej.ac.id.ico",
     "slug": "e-dokumen",
     "status": "down",
-    "uptime": "48.67%",
-    "uptimeDay": "48.67%",
-    "uptimeWeek": "48.67%",
-    "uptimeMonth": "48.67%",
-    "uptimeYear": "48.67%",
+    "uptime": "44.60%",
+    "uptimeDay": "44.60%",
+    "uptimeWeek": "44.60%",
+    "uptimeMonth": "44.60%",
+    "uptimeYear": "44.60%",
     "time": 1294,
     "timeDay": 1294,
     "timeWeek": 1294,
     "timeMonth": 1294,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-07-21": 328
+      "2023-07-21": 386
     }
   },
   {
@@ -517,18 +519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unej.ac.id.ico",
     "slug": "lp-2-m",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 392
+      "2023-07-21": 450
     }
   },
   {
@@ -602,7 +604,7 @@
     "timeMonth": 896,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2023-07-21": 391
+      "2023-07-21": 450
     }
   },
   {
@@ -629,18 +631,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltsit-cdast.unej.ac.id.ico",
     "slug": "upa-pllt",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 391
+      "2023-07-21": 449
     }
   },
   {
@@ -660,7 +662,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 391
+      "2023-07-21": 449
     }
   },
   {
@@ -680,7 +682,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 391
+      "2023-07-21": 449
     }
   },
   {
@@ -707,18 +709,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/law.unej.ac.id.ico",
     "slug": "fakultas-hukum",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 390
+      "2023-07-21": 448
     }
   },
   {
@@ -738,7 +740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 390
+      "2023-07-21": 448
     }
   },
   {
@@ -765,18 +767,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/teknik.unej.ac.id.ico",
     "slug": "fakultas-teknik",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 389
+      "2023-07-21": 448
     }
   },
   {
@@ -785,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fkip.unej.ac.id.ico",
     "slug": "fkip",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 389
+      "2023-07-21": 447
     }
   },
   {
@@ -805,18 +807,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/faperta.unej.ac.id.ico",
     "slug": "fakultas-pertanian",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 388
+      "2023-07-21": 447
     }
   },
   {
@@ -824,19 +826,19 @@
     "url": "https://fkm.unej.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/fkm.unej.ac.id.ico",
     "slug": "fkm",
-    "status": "up",
-    "uptime": "35.98%",
-    "uptimeDay": "35.98%",
-    "uptimeWeek": "35.98%",
-    "uptimeMonth": "35.98%",
-    "uptimeYear": "35.98%",
-    "time": 1202,
-    "timeDay": 1202,
-    "timeWeek": 1202,
-    "timeMonth": 1202,
-    "timeYear": 1202,
+    "status": "down",
+    "uptime": "43.88%",
+    "uptimeDay": "43.88%",
+    "uptimeWeek": "43.88%",
+    "uptimeMonth": "43.88%",
+    "uptimeYear": "43.88%",
+    "time": 1191,
+    "timeDay": 1191,
+    "timeWeek": 1191,
+    "timeMonth": 1191,
+    "timeYear": 1191,
     "dailyMinutesDown": {
-      "2023-07-21": 249
+      "2023-07-21": 251
     }
   },
   {
@@ -845,18 +847,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilkom.unej.ac.id.ico",
     "slug": "fasilkom",
     "status": "down",
-    "uptime": "21.81%",
-    "uptimeDay": "21.81%",
-    "uptimeWeek": "21.81%",
-    "uptimeMonth": "21.81%",
-    "uptimeYear": "21.81%",
+    "uptime": "18.97%",
+    "uptimeDay": "18.97%",
+    "uptimeWeek": "18.97%",
+    "uptimeMonth": "18.97%",
+    "uptimeYear": "18.97%",
     "time": 1733,
     "timeDay": 1733,
     "timeWeek": 1733,
     "timeMonth": 1733,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2023-07-21": 304
+      "2023-07-21": 362
     }
   },
   {
@@ -865,18 +867,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fmipa.unej.ac.id.ico",
     "slug": "fmipa",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 388
+      "2023-07-21": 446
     }
   },
   {
@@ -921,18 +923,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fib.unej.ac.id.ico",
     "slug": "fib",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 387
+      "2023-07-21": 445
     }
   },
   {
