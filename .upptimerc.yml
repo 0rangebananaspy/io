@@ -4,7 +4,7 @@ repo: io # The name of this repository
 
 sites:
   - name: SLD
-    url: https://io.unej.id 
+    url: http://io.unej.id 
   - name: DNS 1
     check: "tcp-ping"
     url: 103.241.205.205
@@ -16,7 +16,6 @@ sites:
   - name: SISTER-API
     check: "tcp-ping"
     url: 103.241.205.115
-    port: 80
   - name: SIAKAD
     url: https://siakad.unej.ac.id
   - name: SIBAJA
@@ -29,24 +28,98 @@ sites:
     url: https://simangga.unej.ac.id
   - name: SIMKEU
     url: https://simkeu.unej.ac.id
-  - name: SIMPEG
-    url: https://siakad.unej.ac.id/kepegawaian/simpeg
   - name: SIREMUN
     url: https://siremun.unej.ac.id
   - name: MMP
     url: https://mmp.unej.ac.id
-  - name: MBKM
-    url: https://mbkm.unej.ac.id
+  - name: E-SKP
+    url: https://eskp.unej.ac.id
   - name: E-Dokumen
     url: https://edokumen.unej.ac.id
   - name: E-Surat
-    url: https://siakad.unej.ac.id/surat/listsurat
+    url: https://esurat.unej.ac.id/
+  - name: ZOOM UNEJ-server
+    url: https://unej-id.zoom.us/
   - name: UC3
     url: https://uc3.unej.ac.id
   - name: SSO
     url: https://sso.unej.ac.id
   - name: WEB UNEJ (unej.ac.id)
     url: https://unej.ac.id
+  - name: Lumbung
+    url: https://lumbung.unej.ac.id
+  - name: Kawanda
+    url: https://kawanda.unej.ac.id
+  - name: Library
+    url: https://library.unej.ac.id
+  - name: OAILib (Open E-resources Portal)
+    url: https://oailib.unej.ac.id/vufind
+  - name: Journal
+    url: https://journal.unej.ac.id
+  - name: Jurnal
+    url: https://jurnal.unej.ac.id
+  - name: Repository
+    url: https://repository.unej.ac.id
+  - name: OER (Open Educational Resources)
+    url: https://oer.unej.ac.id
+  - name: SPI
+    url: https://spi.unej.ac.id
+  - name: LP2M
+    url: https://lp2m.unej.ac.id
+  - name: LP3M
+    url: https://lp3m.unej.ac.id
+  - name: UPA TIK
+    url: https://uptti.unej.ac.id
+  - name: UPA Bahasa
+    url: https://uptbahasa.unej.ac.id
+  - name: UPA Perpustakaan
+    url: https://perpustakaan.unej.ac.id
+  - name: UPA Percetakan dan Penerbitan
+    url: https://penerbitan.unej.ac.id
+  - name: UPA PLLT
+    url: https://ltsit-cdast.unej.ac.id
+  - name: UPA Taman Agroteknologi
+    url: https://agroteknopark.unej.ac.id
+  - name: UPA PKK
+    url: https://pkk.unej.ac.id
+  - name: Fakultas Kedokteran
+    url: https://fk.unej.ac.id
+  - name: Fakultas Hukum
+    url: https://law.unej.ac.id
+  - name: FKG
+    url: https://fkg.unej.ac.id
+  - name: FEB
+    url: https://feb.unej.ac.id
+  - name: Fakultas Teknik
+    url: https://teknik.unej.ac.id
+  - name: FKIP
+    url: https://fkip.unej.ac.id
+  - name: Fakultas Pertanian
+    url: https://faperta.unej.ac.id
+  - name: FKM
+    url: https://fkm.unej.ac.id
+  - name: FASILKOM
+    url: https://ilkom.unej.ac.id
+  - name: FMIPA
+    url: https://fmipa.unej.ac.id
+  - name: Fakultas Farmasi
+    url: https://farmasi.unej.ac.id
+  - name: FKEP
+    url: https://fkep.unej.ac.id
+  - name: FIB
+    url: https://fib.unej.ac.id
+  - name: FISIP
+    url: https://fisip.unej.ac.id
+  - name: FTP
+    url: https://www.fateta.unej.ac.id
+  - name: Pascasarjana
+    url: https://pasca.unej.ac.id
+  - name: Program Vokasi
+    url: https://vokasi.unej.ac.id
+  - name: CHRM2
+    url: https://chrm2.unej.ac.id
+  - name: CGS
+    url: https://cgs.unej.ac.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
