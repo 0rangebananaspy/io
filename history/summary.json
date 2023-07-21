@@ -4,19 +4,19 @@
     "url": "http://io.unej.id",
     "icon": "https://icons.duckduckgo.com/ip3/io.unej.id.ico",
     "slug": "sld",
-    "status": "up",
-    "uptime": "62.40%",
-    "uptimeDay": "62.40%",
-    "uptimeWeek": "62.40%",
-    "uptimeMonth": "62.40%",
-    "uptimeYear": "62.40%",
-    "time": 1084,
-    "timeDay": 1084,
-    "timeWeek": 1084,
-    "timeMonth": 1084,
-    "timeYear": 1084,
+    "status": "down",
+    "uptime": "64.26%",
+    "uptimeDay": "64.26%",
+    "uptimeWeek": "64.26%",
+    "uptimeMonth": "64.26%",
+    "uptimeYear": "64.26%",
+    "time": 1120,
+    "timeDay": 1120,
+    "timeWeek": 1120,
+    "timeMonth": 1120,
+    "timeYear": 1120,
     "dailyMinutesDown": {
-      "2023-07-21": 250
+      "2023-07-21": 258
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 701
+      "2023-07-21": 758
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3219,
-    "timeDay": 3219,
-    "timeWeek": 3219,
-    "timeMonth": 3219,
-    "timeYear": 3219,
+    "time": 3487,
+    "timeDay": 3487,
+    "timeWeek": 3487,
+    "timeMonth": 3487,
+    "timeYear": 3487,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2923,
-    "timeDay": 2923,
-    "timeWeek": 2923,
-    "timeMonth": 2923,
-    "timeYear": 2923,
+    "time": 2989,
+    "timeDay": 2989,
+    "timeWeek": 2989,
+    "timeMonth": 2989,
+    "timeYear": 2989,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1561,
-    "timeDay": 1561,
-    "timeWeek": 1561,
-    "timeMonth": 1561,
-    "timeYear": 1561,
+    "time": 1646,
+    "timeDay": 1646,
+    "timeWeek": 1646,
+    "timeMonth": 1646,
+    "timeYear": 1646,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1629,
-    "timeDay": 1629,
-    "timeWeek": 1629,
-    "timeMonth": 1629,
-    "timeYear": 1629,
+    "time": 1618,
+    "timeDay": 1618,
+    "timeWeek": 1618,
+    "timeMonth": 1618,
+    "timeYear": 1618,
     "dailyMinutesDown": {}
   },
   {
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2612,
-    "timeDay": 2612,
-    "timeWeek": 2612,
-    "timeMonth": 2612,
-    "timeYear": 2612,
+    "time": 2736,
+    "timeDay": 2736,
+    "timeWeek": 2736,
+    "timeMonth": 2736,
+    "timeYear": 2736,
     "dailyMinutesDown": {}
   },
   {
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2496,
-    "timeDay": 2496,
-    "timeWeek": 2496,
-    "timeMonth": 2496,
-    "timeYear": 2496,
+    "time": 2524,
+    "timeDay": 2524,
+    "timeWeek": 2524,
+    "timeMonth": 2524,
+    "timeYear": 2524,
     "dailyMinutesDown": {}
   },
   {
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2379,
-    "timeDay": 2379,
-    "timeWeek": 2379,
-    "timeMonth": 2379,
-    "timeYear": 2379,
+    "time": 2511,
+    "timeDay": 2511,
+    "timeWeek": 2511,
+    "timeMonth": 2511,
+    "timeYear": 2511,
     "dailyMinutesDown": {}
   },
   {
@@ -207,18 +207,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mmp.unej.ac.id.ico",
     "slug": "mmp",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
-    "time": 3088,
-    "timeDay": 3088,
-    "timeWeek": 3088,
-    "timeMonth": 3088,
-    "timeYear": 3088,
+    "uptime": "91.56%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "91.56%",
+    "time": 3060,
+    "timeDay": 3060,
+    "timeWeek": 3060,
+    "timeMonth": 3060,
+    "timeYear": 3060,
     "dailyMinutesDown": {
-      "2023-07-21": 7
+      "2023-07-21": 64
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 451
+      "2023-07-21": 508
     }
   },
   {
@@ -247,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/edokumen.unej.ac.id.ico",
     "slug": "e-dokumen",
     "status": "down",
-    "uptime": "44.60%",
-    "uptimeDay": "44.60%",
-    "uptimeWeek": "44.60%",
-    "uptimeMonth": "44.60%",
-    "uptimeYear": "44.60%",
+    "uptime": "41.22%",
+    "uptimeDay": "41.22%",
+    "uptimeWeek": "41.22%",
+    "uptimeMonth": "41.22%",
+    "uptimeYear": "41.22%",
     "time": 1294,
     "timeDay": 1294,
     "timeWeek": 1294,
     "timeMonth": 1294,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-07-21": 386
+      "2023-07-21": 444
     }
   },
   {
@@ -272,11 +272,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2188,
-    "timeDay": 2188,
-    "timeWeek": 2188,
-    "timeMonth": 2188,
-    "timeYear": 2188,
+    "time": 2219,
+    "timeDay": 2219,
+    "timeWeek": 2219,
+    "timeMonth": 2219,
+    "timeYear": 2219,
     "dailyMinutesDown": {}
   },
   {
@@ -290,11 +290,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 181,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "time": 150,
+    "timeDay": 150,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -308,11 +308,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2289,
-    "timeDay": 2289,
-    "timeWeek": 2289,
-    "timeMonth": 2289,
-    "timeYear": 2289,
+    "time": 2410,
+    "timeDay": 2410,
+    "timeWeek": 2410,
+    "timeMonth": 2410,
+    "timeYear": 2410,
     "dailyMinutesDown": {}
   },
   {
@@ -326,11 +326,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1205,
-    "timeDay": 1205,
-    "timeWeek": 1205,
-    "timeMonth": 1205,
-    "timeYear": 1205,
+    "time": 1234,
+    "timeDay": 1234,
+    "timeWeek": 1234,
+    "timeMonth": 1234,
+    "timeYear": 1234,
     "dailyMinutesDown": {}
   },
   {
@@ -344,11 +344,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1902,
-    "timeDay": 1902,
-    "timeWeek": 1902,
-    "timeMonth": 1902,
-    "timeYear": 1902,
+    "time": 1991,
+    "timeDay": 1991,
+    "timeWeek": 1991,
+    "timeMonth": 1991,
+    "timeYear": 1991,
     "dailyMinutesDown": {}
   },
   {
@@ -362,11 +362,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2698,
-    "timeDay": 2698,
-    "timeWeek": 2698,
-    "timeMonth": 2698,
-    "timeYear": 2698,
+    "time": 2948,
+    "timeDay": 2948,
+    "timeWeek": 2948,
+    "timeMonth": 2948,
+    "timeYear": 2948,
     "dailyMinutesDown": {}
   },
   {
@@ -380,11 +380,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1818,
-    "timeDay": 1818,
-    "timeWeek": 1818,
-    "timeMonth": 1818,
-    "timeYear": 1818,
+    "time": 2077,
+    "timeDay": 2077,
+    "timeWeek": 2077,
+    "timeMonth": 2077,
+    "timeYear": 2077,
     "dailyMinutesDown": {}
   },
   {
@@ -398,11 +398,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1368,
-    "timeDay": 1368,
-    "timeWeek": 1368,
-    "timeMonth": 1368,
-    "timeYear": 1368,
+    "time": 1479,
+    "timeDay": 1479,
+    "timeWeek": 1479,
+    "timeMonth": 1479,
+    "timeYear": 1479,
     "dailyMinutesDown": {}
   },
   {
@@ -416,11 +416,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2029,
-    "timeDay": 2029,
-    "timeWeek": 2029,
-    "timeMonth": 2029,
-    "timeYear": 2029,
+    "time": 2481,
+    "timeDay": 2481,
+    "timeWeek": 2481,
+    "timeMonth": 2481,
+    "timeYear": 2481,
     "dailyMinutesDown": {}
   },
   {
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1438,
-    "timeDay": 1438,
-    "timeWeek": 1438,
-    "timeMonth": 1438,
-    "timeYear": 1438,
+    "time": 1549,
+    "timeDay": 1549,
+    "timeWeek": 1549,
+    "timeMonth": 1549,
+    "timeYear": 1549,
     "dailyMinutesDown": {}
   },
   {
@@ -452,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1788,
-    "timeDay": 1788,
-    "timeWeek": 1788,
-    "timeMonth": 1788,
-    "timeYear": 1788,
+    "time": 1939,
+    "timeDay": 1939,
+    "timeWeek": 1939,
+    "timeMonth": 1939,
+    "timeYear": 1939,
     "dailyMinutesDown": {}
   },
   {
@@ -470,11 +470,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 1822,
-    "timeWeek": 1822,
-    "timeMonth": 1822,
-    "timeYear": 1822,
+    "time": 1934,
+    "timeDay": 1934,
+    "timeWeek": 1934,
+    "timeMonth": 1934,
+    "timeYear": 1934,
     "dailyMinutesDown": {}
   },
   {
@@ -488,11 +488,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1353,
-    "timeDay": 1353,
-    "timeWeek": 1353,
-    "timeMonth": 1353,
-    "timeYear": 1353,
+    "time": 1450,
+    "timeDay": 1450,
+    "timeWeek": 1450,
+    "timeMonth": 1450,
+    "timeYear": 1450,
     "dailyMinutesDown": {}
   },
   {
@@ -506,11 +506,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 553,
-    "timeWeek": 553,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "time": 591,
+    "timeDay": 591,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   },
   {
@@ -519,18 +519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unej.ac.id.ico",
     "slug": "lp-2-m",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 450
+      "2023-07-21": 507
     }
   },
   {
@@ -544,11 +544,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 22386,
-    "timeDay": 22386,
-    "timeWeek": 22386,
-    "timeMonth": 22386,
-    "timeYear": 22386,
+    "time": 23967,
+    "timeDay": 23967,
+    "timeWeek": 23967,
+    "timeMonth": 23967,
+    "timeYear": 23967,
     "dailyMinutesDown": {}
   },
   {
@@ -562,11 +562,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 386,
-    "timeWeek": 386,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 370,
+    "timeDay": 370,
+    "timeWeek": 370,
+    "timeMonth": 370,
+    "timeYear": 370,
     "dailyMinutesDown": {}
   },
   {
@@ -580,11 +580,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2800,
-    "timeDay": 2800,
-    "timeWeek": 2800,
-    "timeMonth": 2800,
-    "timeYear": 2800,
+    "time": 2260,
+    "timeDay": 2260,
+    "timeWeek": 2260,
+    "timeMonth": 2260,
+    "timeYear": 2260,
     "dailyMinutesDown": {}
   },
   {
@@ -598,13 +598,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 896,
-    "timeDay": 896,
-    "timeWeek": 896,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "time": 944,
+    "timeDay": 944,
+    "timeWeek": 944,
+    "timeMonth": 944,
+    "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-07-21": 450
+      "2023-07-21": 507
     }
   },
   {
@@ -618,11 +618,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 438,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -631,18 +631,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltsit-cdast.unej.ac.id.ico",
     "slug": "upa-pllt",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 449
+      "2023-07-21": 506
     }
   },
   {
@@ -651,18 +651,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agroteknopark.unej.ac.id.ico",
     "slug": "upa-taman-agroteknologi",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 449
+      "2023-07-21": 506
     }
   },
   {
@@ -682,7 +682,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 449
+      "2023-07-21": 506
     }
   },
   {
@@ -696,11 +696,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2535,
-    "timeDay": 2535,
-    "timeWeek": 2535,
-    "timeMonth": 2535,
-    "timeYear": 2535,
+    "time": 2771,
+    "timeDay": 2771,
+    "timeWeek": 2771,
+    "timeMonth": 2771,
+    "timeYear": 2771,
     "dailyMinutesDown": {}
   },
   {
@@ -709,18 +709,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/law.unej.ac.id.ico",
     "slug": "fakultas-hukum",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 448
+      "2023-07-21": 506
     }
   },
   {
@@ -740,7 +740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 448
+      "2023-07-21": 506
     }
   },
   {
@@ -754,11 +754,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1158,
-    "timeDay": 1158,
-    "timeWeek": 1158,
-    "timeMonth": 1158,
-    "timeYear": 1158,
+    "time": 1260,
+    "timeDay": 1260,
+    "timeWeek": 1260,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {}
   },
   {
@@ -767,18 +767,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/teknik.unej.ac.id.ico",
     "slug": "fakultas-teknik",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 448
+      "2023-07-21": 505
     }
   },
   {
@@ -787,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fkip.unej.ac.id.ico",
     "slug": "fkip",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 447
+      "2023-07-21": 504
     }
   },
   {
@@ -807,18 +807,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/faperta.unej.ac.id.ico",
     "slug": "fakultas-pertanian",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 447
+      "2023-07-21": 504
     }
   },
   {
@@ -827,18 +827,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fkm.unej.ac.id.ico",
     "slug": "fkm",
     "status": "down",
-    "uptime": "43.88%",
-    "uptimeDay": "43.88%",
-    "uptimeWeek": "43.88%",
-    "uptimeMonth": "43.88%",
-    "uptimeYear": "43.88%",
-    "time": 1191,
-    "timeDay": 1191,
-    "timeWeek": 1191,
-    "timeMonth": 1191,
-    "timeYear": 1191,
+    "uptime": "41.82%",
+    "uptimeDay": "41.82%",
+    "uptimeWeek": "41.82%",
+    "uptimeMonth": "41.82%",
+    "uptimeYear": "41.82%",
+    "time": 1182,
+    "timeDay": 1182,
+    "timeWeek": 1182,
+    "timeMonth": 1182,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2023-07-21": 251
+      "2023-07-21": 294
     }
   },
   {
@@ -847,18 +847,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilkom.unej.ac.id.ico",
     "slug": "fasilkom",
     "status": "down",
-    "uptime": "18.97%",
-    "uptimeDay": "18.97%",
-    "uptimeWeek": "18.97%",
-    "uptimeMonth": "18.97%",
-    "uptimeYear": "18.97%",
+    "uptime": "16.81%",
+    "uptimeDay": "16.81%",
+    "uptimeWeek": "16.81%",
+    "uptimeMonth": "16.81%",
+    "uptimeYear": "16.81%",
     "time": 1733,
     "timeDay": 1733,
     "timeWeek": 1733,
     "timeMonth": 1733,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2023-07-21": 362
+      "2023-07-21": 419
     }
   },
   {
@@ -867,18 +867,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fmipa.unej.ac.id.ico",
     "slug": "fmipa",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 446
+      "2023-07-21": 503
     }
   },
   {
@@ -892,11 +892,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2382,
-    "timeDay": 2382,
-    "timeWeek": 2382,
-    "timeMonth": 2382,
-    "timeYear": 2382,
+    "time": 2569,
+    "timeDay": 2569,
+    "timeWeek": 2569,
+    "timeMonth": 2569,
+    "timeYear": 2569,
     "dailyMinutesDown": {}
   },
   {
@@ -910,11 +910,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1910,
-    "timeDay": 1910,
-    "timeWeek": 1910,
-    "timeMonth": 1910,
-    "timeYear": 1910,
+    "time": 2012,
+    "timeDay": 2012,
+    "timeWeek": 2012,
+    "timeMonth": 2012,
+    "timeYear": 2012,
     "dailyMinutesDown": {}
   },
   {
@@ -923,18 +923,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fib.unej.ac.id.ico",
     "slug": "fib",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 445
+      "2023-07-21": 503
     }
   },
   {
@@ -948,11 +948,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2740,
-    "timeDay": 2740,
-    "timeWeek": 2740,
-    "timeMonth": 2740,
-    "timeYear": 2740,
+    "time": 2838,
+    "timeDay": 2838,
+    "timeWeek": 2838,
+    "timeMonth": 2838,
+    "timeYear": 2838,
     "dailyMinutesDown": {}
   },
   {
@@ -966,11 +966,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 568,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {}
   },
   {
@@ -984,11 +984,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1649,
-    "timeDay": 1649,
-    "timeWeek": 1649,
-    "timeMonth": 1649,
-    "timeYear": 1649,
+    "time": 1756,
+    "timeDay": 1756,
+    "timeWeek": 1756,
+    "timeMonth": 1756,
+    "timeYear": 1756,
     "dailyMinutesDown": {}
   },
   {
@@ -1002,11 +1002,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2819,
-    "timeDay": 2819,
-    "timeWeek": 2819,
-    "timeMonth": 2819,
-    "timeYear": 2819,
+    "time": 3046,
+    "timeDay": 3046,
+    "timeWeek": 3046,
+    "timeMonth": 3046,
+    "timeYear": 3046,
     "dailyMinutesDown": {}
   },
   {
@@ -1020,11 +1020,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 619,
-    "timeWeek": 619,
-    "timeMonth": 619,
-    "timeYear": 619,
+    "time": 644,
+    "timeDay": 644,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
@@ -1038,11 +1038,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2212,
-    "timeDay": 2212,
-    "timeWeek": 2212,
-    "timeMonth": 2212,
-    "timeYear": 2212,
+    "time": 2286,
+    "timeDay": 2286,
+    "timeWeek": 2286,
+    "timeMonth": 2286,
+    "timeYear": 2286,
     "dailyMinutesDown": {}
   }
 ]
