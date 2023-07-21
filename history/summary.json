@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/io.unej.id.ico",
     "slug": "sld",
     "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
+    "uptime": "1.21%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "1.21%",
+    "uptimeMonth": "1.21%",
+    "uptimeYear": "1.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 2
+      "2023-07-21": 3
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 38
+      "2023-07-21": 39
     }
   },
   {
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 37
+      "2023-07-21": 38
     }
   },
   {
