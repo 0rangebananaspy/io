@@ -4,19 +4,19 @@
     "url": "http://io.unej.id",
     "icon": "https://icons.duckduckgo.com/ip3/io.unej.id.ico",
     "slug": "sld",
-    "status": "down",
-    "uptime": "63.17%",
-    "uptimeDay": "63.17%",
-    "uptimeWeek": "63.17%",
-    "uptimeMonth": "63.17%",
-    "uptimeYear": "63.17%",
-    "time": 1120,
-    "timeDay": 1120,
-    "timeWeek": 1120,
-    "timeMonth": 1120,
-    "timeYear": 1120,
+    "status": "up",
+    "uptime": "63.19%",
+    "uptimeDay": "63.19%",
+    "uptimeWeek": "63.19%",
+    "uptimeMonth": "63.19%",
+    "uptimeYear": "63.19%",
+    "time": 1172,
+    "timeDay": 1172,
+    "timeWeek": 1172,
+    "timeMonth": 1172,
+    "timeYear": 1172,
     "dailyMinutesDown": {
-      "2023-07-21": 271
+      "2023-07-21": 275
     }
   },
   {
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 770
+      "2023-07-22": 3,
+      "2023-07-21": 780
     }
   },
   {
@@ -207,18 +208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mmp.unej.ac.id.ico",
     "slug": "mmp",
     "status": "down",
-    "uptime": "90.08%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "90.08%",
+    "uptime": "88.63%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "88.63%",
+    "uptimeMonth": "88.63%",
+    "uptimeYear": "88.63%",
     "time": 3060,
     "timeDay": 3060,
     "timeWeek": 3060,
     "timeMonth": 3060,
     "timeYear": 3060,
     "dailyMinutesDown": {
-      "2023-07-21": 76
+      "2023-07-22": 3,
+      "2023-07-21": 86
     }
   },
   {
@@ -238,7 +240,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 521
+      "2023-07-22": 3,
+      "2023-07-21": 530
     }
   },
   {
@@ -247,18 +250,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edokumen.unej.ac.id.ico",
     "slug": "e-dokumen",
     "status": "down",
-    "uptime": "40.56%",
-    "uptimeDay": "40.56%",
-    "uptimeWeek": "40.56%",
-    "uptimeMonth": "40.56%",
-    "uptimeYear": "40.56%",
+    "uptime": "39.90%",
+    "uptimeDay": "39.90%",
+    "uptimeWeek": "39.90%",
+    "uptimeMonth": "39.90%",
+    "uptimeYear": "39.90%",
     "time": 1294,
     "timeDay": 1294,
     "timeWeek": 1294,
     "timeMonth": 1294,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-07-21": 456
+      "2023-07-22": 3,
+      "2023-07-21": 465
     }
   },
   {
@@ -530,7 +534,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 520
+      "2023-07-22": 3,
+      "2023-07-21": 529
     }
   },
   {
@@ -604,7 +609,8 @@
     "timeMonth": 944,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-07-21": 519
+      "2023-07-22": 3,
+      "2023-07-21": 528
     }
   },
   {
@@ -642,7 +648,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 519
+      "2023-07-22": 3,
+      "2023-07-21": 528
     }
   },
   {
@@ -662,7 +669,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 519
+      "2023-07-22": 3,
+      "2023-07-21": 528
     }
   },
   {
@@ -671,18 +679,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pkk.unej.ac.id.ico",
     "slug": "upa-pkk",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 518
+      "2023-07-22": 3,
+      "2023-07-21": 528
     }
   },
   {
@@ -720,7 +729,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 518
+      "2023-07-22": 3,
+      "2023-07-21": 527
     }
   },
   {
@@ -740,7 +750,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 518
+      "2023-07-22": 3,
+      "2023-07-21": 527
     }
   },
   {
@@ -767,18 +778,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/teknik.unej.ac.id.ico",
     "slug": "fakultas-teknik",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 517
+      "2023-07-22": 3,
+      "2023-07-21": 526
     }
   },
   {
@@ -798,7 +810,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 517
+      "2023-07-22": 3,
+      "2023-07-21": 526
     }
   },
   {
@@ -818,7 +831,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 516
+      "2023-07-22": 3,
+      "2023-07-21": 525
     }
   },
   {
@@ -827,11 +841,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fkm.unej.ac.id.ico",
     "slug": "fkm",
     "status": "up",
-    "uptime": "43.21%",
-    "uptimeDay": "43.21%",
-    "uptimeWeek": "43.21%",
-    "uptimeMonth": "43.21%",
-    "uptimeYear": "43.21%",
+    "uptime": "44.56%",
+    "uptimeDay": "44.56%",
+    "uptimeWeek": "44.56%",
+    "uptimeMonth": "44.56%",
+    "uptimeYear": "44.56%",
     "time": 1197,
     "timeDay": 1197,
     "timeWeek": 1197,
@@ -847,18 +861,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilkom.unej.ac.id.ico",
     "slug": "fasilkom",
     "status": "down",
-    "uptime": "16.41%",
-    "uptimeDay": "16.41%",
-    "uptimeWeek": "16.41%",
-    "uptimeMonth": "16.41%",
-    "uptimeYear": "16.41%",
+    "uptime": "16.02%",
+    "uptimeDay": "16.02%",
+    "uptimeWeek": "16.02%",
+    "uptimeMonth": "16.02%",
+    "uptimeYear": "16.02%",
     "time": 1733,
     "timeDay": 1733,
     "timeWeek": 1733,
     "timeMonth": 1733,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2023-07-21": 431
+      "2023-07-22": 3,
+      "2023-07-21": 441
     }
   },
   {
@@ -878,7 +893,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 516
+      "2023-07-22": 3,
+      "2023-07-21": 525
     }
   },
   {
@@ -934,7 +950,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 515
+      "2023-07-22": 3,
+      "2023-07-21": 524
     }
   },
   {
