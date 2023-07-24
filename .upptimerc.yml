@@ -16,8 +16,8 @@ status-website:
   # baseUrl: /io
   name: Status Layanan Digital - Universitas Jember
   logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/tik-logo-header-192-1.webp
-  introTitle: "**SLD** is the PWA uptime monitor for Universitas Jember. Built with Svelte and Sapper."
-  introMessage: SLD monitoring **real-time** data from our repo. All the tests is carried out using a network outside Universitas Jember.
+  introTitle: "**SLD** adalah aplikasi monitoring status layanan digital di Universitas Jember."
+  introMessage: SLD memonitoring layanan digital secara **real-time**. Semua aktivitas monitoring dilakukan dari luar jaringan Universitas Jember supaya proses monitoring lebih akurat. Proses pengecekan status dilakukan setiap 5 menit sekali. Aplikasi ini dibuat dengan Svelte dan Sapper.
   navbar:
     - title: Join Channel
       href: https://t.me/tikunej
@@ -155,6 +155,6 @@ sites:
   - name: VPN
     url: https://vpn.unej.ac.id
 i18n:
-  footer: This PWA is [open source](https://io.unej.id), developed by [UPA TIK](https://tik.unej.ac.id). Maintained by Techies, Sugus, Kiplink, & MiminTI.
+  footer: Aplikasi ini dibuat secara [open source](https://io.unej.id), oleh [UPA TIK](https://tik.unej.ac.id). Dikelola oleh Techies, Sugus, Kiplink, & MiminTI.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
