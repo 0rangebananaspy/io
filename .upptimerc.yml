@@ -2,14 +2,13 @@
 owner: 0rangebananaspy # Your GitHub organization or username, where this repository lives
 repo: io # The name of this repository
 user-agent: 0rangebananaspy
-status-website:
-  robotsText: "User-agent: * \n Disallow: /"
-status-website:
-  theme: dark
+   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: io.unej.id
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: dark
   # baseUrl: /io
   logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/xammmm-1.png
   name: Status Layanan Digital
