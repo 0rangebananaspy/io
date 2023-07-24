@@ -17,7 +17,7 @@ status-website:
   name: Status Layanan Digital - Universitas Jember
   logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/tik-logo-header-192-1.webp
   introTitle: "**SLD** adalah aplikasi monitoring status layanan digital di Universitas Jember."
-  introMessage: SLD memonitoring layanan digital secara **real-time**. Semua aktivitas monitoring dilakukan dari luar jaringan Universitas Jember supaya proses monitoring lebih akurat. Proses pengecekan status dilakukan setiap 5 menit sekali. Aplikasi ini dibuat dengan Svelte dan Sapper.
+  introMessage: SLD memonitoring layanan digital secara **real-time**. Proses pengecekan status dilakukan setiap 5 menit sekali. Dibuat dengan Svelte dan Sapper.
   navbar:
     - title: Join Channel
       href: https://t.me/tikunej
@@ -35,9 +35,7 @@ sites:
     check: "tcp-ping"
     url: 103.241.206.206
     port: 53
-  - name: SISTER-API
-    check: "tcp-ping"
-    url: 103.241.205.115
+
   - name: SIAKAD
     url: https://siakad.unej.ac.id
   - name: SIBAJA
@@ -152,8 +150,7 @@ sites:
     url: https://ce.svr.unej.ac.id
   - name: PocketBase
     url: https://pb.unej.id/_/#/login
-  - name: VPN
-    url: https://vpn.unej.ac.id
+
 i18n:
   footer: Aplikasi ini dibuat secara [open source](https://io.unej.id), oleh [UPA TIK](https://tik.unej.ac.id). Dikelola oleh Techies, Sugus, Kiplink, & MiminTI.
 # Upptime also supports notifications, assigning issues, and more
