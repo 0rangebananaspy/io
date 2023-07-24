@@ -150,6 +150,6 @@ sites:
   - name: PocketBase
     url: https://pb.unej.id
 i18n:
-  footer: This SPA is [open source](https://io.unej.id), developed by [TIK UNEJ](https://tik.unej.ac.id) | Maintainer: Techies, Sugus, Kiplink, & MiminTI
+  footer: This SPA is [open source](https://io.unej.id), developed by [TIK UNEJ](https://tik.unej.ac.id). Maintained by Techies, Sugus, Kiplink, & MiminTI.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
