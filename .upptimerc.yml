@@ -10,15 +10,17 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   theme: dark
   # baseUrl: /io
-  logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/xammmm-1.png
-  name: Status Layanan Digital
-  introTitle: "**SLD** is the PWA uptime monitor and status page, built with Svelte and Sapper, powered entirely by GitHub. Created by t.me/orangebananaspy."
-  introMessage: SLD monitoring **real-time** data from our repository. All the services are accessed outside UNEJ network.
+  logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/check.png
+  name: Status Layanan Digital - Universitas Jember
+  introTitle: "**SLD** is the PWA uptime monitor for Universitas Jember. Built with Svelte and Sapper, powered entirely by GitHub. Created by t.me/orangebananaspy."
+  introMessage: SLD monitoring **real-time** data from our repository. All the tests is carried out using a network outside Universitas Jember.
   navbar:
-    - title: Status
-      href: /
-    - title: Ask me anything
-      href: https://t.me/orangebananaspy
+    - title: Join
+      href: https://t.me/tikunej
+    - title: Compare
+      href: https://isitdownorjustme.net/
+  favicon: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/check.png
+  faviconSvg: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/check.svg
 
 sites:
   - name: DNS 205
@@ -138,6 +140,14 @@ sites:
     url: https://chrm2.unej.ac.id
   - name: CGS
     url: https://cgs.unej.ac.id
+  - name: UKM
+    url: https://ukm.unej.ac.id
+  - name: Wiki TIK
+    url: https://wiki.uptti.unej.ac.id
+  - name: CE & CP Server
+    url: https://ce.svr.unej.ac.id
+  - name: PocketBase
+    url: https://pb.unej.id
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
