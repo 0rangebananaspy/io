@@ -6,13 +6,16 @@ user-agent: 0rangebananaspy
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  themeUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/io.css
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/io.css
+  # themeUrl:
   cname: io.unej.id
   robotsText: "User-agent: * \n Disallow: /"
   theme: 
   # baseUrl: /io
-  logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/tik-logo-header-192-1.webp
   name: Status Layanan Digital - Universitas Jember
+  logoUrl: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/tik-logo-header-192-1.webp
   introTitle: "**SLD** is the PWA uptime monitor for Universitas Jember. Built with Svelte and Sapper."
   introMessage: SLD monitoring **real-time** data from our repo. All the tests is carried out using a network outside Universitas Jember.
   navbar:
@@ -148,8 +151,10 @@ sites:
   - name: CE & CP Server
     url: https://ce.svr.unej.ac.id
   - name: PocketBase
-    url: https://pb.unej.id
+    url: https://pb.unej.id/_/#/login
+  - name: VPN
+    url: https://vpn.unej.ac.id
 i18n:
-  footer: This SPA is [open source](https://io.unej.id), developed by [TIK UNEJ](https://tik.unej.ac.id). Maintained by Techies, Sugus, Kiplink, & MiminTI.
+  footer: This PWA is [open source](https://io.unej.id), developed by [UPA TIK](https://tik.unej.ac.id). Maintained by Techies, Sugus, Kiplink, & MiminTI.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
