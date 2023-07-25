@@ -35,7 +35,6 @@ sites:
     check: "tcp-ping"
     url: 103.241.206.206
     port: 53
-
   - name: SIAKAD
     url: https://siakad.unej.ac.id
   - name: SIBAJA
@@ -84,66 +83,6 @@ sites:
     url: https://repository.unej.ac.id
   - name: OER (Open Educational Resources)
     url: https://oer.unej.ac.id
-  - name: SPI
-    url: https://spi.unej.ac.id
-  - name: LP2M
-    url: https://lp2m.unej.ac.id
-  - name: LP3M
-    url: https://lp3m.unej.ac.id
-  - name: UPA TIK
-    url: https://uptti.unej.ac.id
-  - name: UPA Bahasa
-    url: https://uptbahasa.unej.ac.id
-  - name: UPA Perpustakaan
-    url: https://perpustakaan.unej.ac.id
-  - name: UPA Percetakan dan Penerbitan
-    url: https://penerbitan.unej.ac.id
-  - name: UPA PLLT
-    url: https://ltsit-cdast.unej.ac.id
-  - name: UPA Taman Agroteknologi
-    url: https://agroteknopark.unej.ac.id
-  - name: UPA PKK
-    url: https://pkk.unej.ac.id
-  - name: Fakultas Kedokteran
-    url: https://fk.unej.ac.id
-  - name: Fakultas Hukum
-    url: https://law.unej.ac.id
-  - name: FKG
-    url: https://fkg.unej.ac.id
-  - name: FEB
-    url: https://feb.unej.ac.id
-  - name: Fakultas Teknik
-    url: https://teknik.unej.ac.id
-  - name: FKIP
-    url: https://fkip.unej.ac.id
-  - name: Fakultas Pertanian
-    url: https://faperta.unej.ac.id
-  - name: FKM
-    url: https://fkm.unej.ac.id
-  - name: FASILKOM
-    url: https://ilkom.unej.ac.id
-  - name: FMIPA
-    url: https://fmipa.unej.ac.id
-  - name: Fakultas Farmasi
-    url: https://farmasi.unej.ac.id
-  - name: FKEP
-    url: https://fkep.unej.ac.id
-  - name: FIB
-    url: https://fib.unej.ac.id
-  - name: FISIP
-    url: https://fisip.unej.ac.id
-  - name: FTP
-    url: https://www.fateta.unej.ac.id
-  - name: Pascasarjana
-    url: https://pasca.unej.ac.id
-  - name: Program Vokasi
-    url: https://vokasi.unej.ac.id
-  - name: CHRM2
-    url: https://chrm2.unej.ac.id
-  - name: CGS
-    url: https://cgs.unej.ac.id
-  - name: UKM
-    url: https://ukm.unej.ac.id
   - name: Wiki TIK
     url: https://wiki.uptti.unej.ac.id
   - name: CE & CP Server
