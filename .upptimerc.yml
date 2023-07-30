@@ -53,8 +53,6 @@ sites:
     url: https://semmaba.unej.ac.id
   - name: MMP
     url: https://mmp.unej.ac.id
-  - name: E-SKP
-    url: https://eskp.unej.ac.id
   - name: E-Dokumen
     url: https://edokumen.unej.ac.id
   - name: E-Surat
@@ -129,4 +127,4 @@ sites:
     url: https://pb.unej.id/_/#/login
 
 i18n:
-  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh [UPA TIK](https://tik.unej.ac.id). Dikelola oleh orangebananaspy, sugus, & kiplink.
+  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim Data Center [UPA TIK](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
