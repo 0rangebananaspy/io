@@ -8,7 +8,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/io.css
+      href: https://io.unej.id/io.css
   # themeUrl:
   cname: io.unej.id
   robotsText: "User-agent: * \n Disallow: /"
@@ -23,8 +23,8 @@ status-website:
       href: https://t.me/tikunej
     - title: Compare
       href: https://isitdownorjustme.net/
-  favicon: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/check.png
-  faviconSvg: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/check.svg
+  favicon: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/checkmark.png
+  faviconSvg: https://raw.githubusercontent.com/0rangebananaspy/cdn/main/uploads/checkmark.svg
 
 sites:
   - name: DNS 205
