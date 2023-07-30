@@ -83,8 +83,78 @@ sites:
     url: https://repository.unej.ac.id
   - name: OER (Open Educational Resources)
     url: https://oer.unej.ac.id
-  - name: Wiki TIK
-    url: https://wiki.uptti.unej.ac.id
+  - name: Taman Kebangsaan
+    url: https://tamankebangsaan.unej.ac.id
+  - name: API-Mobile
+    check: "tcp-ping"
+    url: 103.241.205.85
+  - name: API-Akademik
+    check: "tcp-ping"
+    url: 103.241.205.114
+  - name: API-Auth
+    check: "tcp-ping"
+    url: 103.241.205.115
+  - name: API-MMP
+    check: "tcp-ping"
+    url: 103.241.205.116
+  - name: API-Helpdesk
+    check: "tcp-ping"
+    url: 103.241.205.117
+  - name: API-Clinic
+    check: "tcp-ping"
+    url: 103.241.205.118
+  - name: API-Study
+    check: "tcp-ping"
+    url: 103.241.205.120
+  - name: API-KRS
+    check: "tcp-ping"
+    url: 103.241.205.121
+  - name: API-Slims
+    check: "tcp-ping"
+    url: 103.241.205.122
+  - name: API-Services
+    check: "tcp-ping"
+    url: 103.241.205.24
+  - name: Posko UTBK
+    url: https://posko.unej.ac.id
+  - name: Dashboard
+    url: https://dashboard.unej.ac.id
+  - name: Data MBKM
+    url: https://datambkm.unej.ac.id
+  - name: Klise
+    url: https://klise.unej.ac.id
+  - name: Assesor BKD
+    url: https://bkd.unej.ac.id
+  - name: Ambara
+    url: https://ambara.unej.ac.id
+  - name: PPID
+    url: https://ppid.unej.ac.id
+  - name: LMS PPG
+    url: https://lmsppg.unej.ac.id
+  - name: Latte
+    url: https://latte.unej.ac.id
+  - name: Lavoro
+    url: https://lavoro.unej.ac.id
+  - name: VA Bill
+    url: https://vabill.unej.ac.id
+  - name: OPTIMA BMN
+    url: https://optima-bmn.unej.ac.id
+  - name: SIM RSGM
+    url: https://simrsgm.unej.ac.id
+  - name: QR Event
+    url: https://qr.unej.ac.id
+  - name: Eproc
+    url: https://eproc.unej.ac.id
+  - name: ICOGEF PSG
+    url: https://icogef.psg.unej.ac.id
+  - name: SIMULAN
+    url: https://simulan.unej.ac.id
+  - name: Neo Feeder 2023
+    url: https://feeder.unej.ac.id
+  - name: GatewayNET
+    url: http://gw.unej.id
+  - name: SRD
+    url: https://srd.unej.ac.id
   - name: CE & CP Server
     url: https://ce.svr.unej.ac.id
   - name: PocketBase
