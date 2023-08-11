@@ -1,7 +1,7 @@
 url: https://lavoro.unej.ac.id
-status: up
-code: 200
-responseTime: 3890
-lastUpdated: 2023-08-10T23:17:44.242Z
+status: down
+code: 502
+responseTime: 1287
+lastUpdated: 2023-08-11T02:03:37.545Z
 startTime: Sun Jul 30 2023 04:17:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
