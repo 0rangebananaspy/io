@@ -1,7 +1,7 @@
 url: https://siremun.unej.ac.id
-status: up
-code: 200
-responseTime: 2634
-lastUpdated: 2023-09-08T03:22:54.936Z
+status: down
+code: 502
+responseTime: 1014
+lastUpdated: 2023-09-08T05:36:53.268Z
 startTime: 2023-07-21T11:02:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
