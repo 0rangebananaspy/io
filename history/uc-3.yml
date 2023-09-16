@@ -1,7 +1,7 @@
 url: https://uc3.unej.ac.id
-status: up
-code: 200
-responseTime: 3160
-lastUpdated: 2023-09-15T23:16:48.650Z
+status: down
+code: 502
+responseTime: 1061
+lastUpdated: 2023-09-16T10:28:36.535Z
 startTime: 2023-07-21T11:03:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
