@@ -1,7 +1,7 @@
 url: https://latte.unej.ac.id
-status: up
-code: 200
-responseTime: 823
-lastUpdated: 2023-09-25T23:17:56.873Z
+status: down
+code: 502
+responseTime: 19404
+lastUpdated: 2023-09-26T09:38:25.738Z
 startTime: 2023-07-30T04:17:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
