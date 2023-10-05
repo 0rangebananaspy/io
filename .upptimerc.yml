@@ -125,6 +125,12 @@ sites:
     url: https://ce.svr.unej.ac.id
   - name: PocketBase
     url: https://pb.unej.id/_/#/login
+  - name: AHEC Expo
+    url: https://ahecexpo.unej.ac.id/
+  - name: Gitea
+    url: https://gitea.unej.ac.id/
+  - name: Gitness
+    url: https://gitness.unej.ac.id/
 
 i18n:
-  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim Data Center [UPA TIK](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
+  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim PUSDATIN [UPA TIK](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
