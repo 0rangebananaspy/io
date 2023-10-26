@@ -133,4 +133,4 @@ sites:
     url: https://gitness.unej.ac.id/
 
 i18n:
-  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim PUSDATIN [UPA TIK](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
+  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim PUSDATIN [UPA TIK UNEJ](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
