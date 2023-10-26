@@ -8,7 +8,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   links:
     - rel: stylesheet
-      href: https://io.unej.id/io.css
+      href: https://io.unej.id/assets/io.css
   # themeUrl:
   cname: io.unej.id
   robotsText: "User-agent: * \n Disallow: /"
