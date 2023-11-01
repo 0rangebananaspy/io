@@ -1,7 +1,7 @@
 url: https://lumbung.unej.ac.id
-status: up
-code: 200
-responseTime: 2961
-lastUpdated: 2023-10-31T23:18:02.580Z
+status: down
+code: 502
+responseTime: 1653
+lastUpdated: 2023-11-01T02:31:35.839Z
 startTime: 2023-07-21T15:10:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
