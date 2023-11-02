@@ -1,7 +1,7 @@
 url: https://lmsppg.unej.ac.id
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2023-11-01T23:19:31.686Z
+status: down
+code: 503
+responseTime: 8453
+lastUpdated: 2023-11-02T17:10:44.597Z
 startTime: 2023-07-30T04:17:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
