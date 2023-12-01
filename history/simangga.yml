@@ -1,7 +1,7 @@
 url: https://simangga.unej.ac.id
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 2750
-lastUpdated: 2023-12-01T14:22:10.688Z
+lastUpdated: 2023-12-01T19:00:02.941Z
 startTime: 2023-07-21T11:02:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
