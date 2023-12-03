@@ -1,7 +1,7 @@
 url: https://srd.unej.ac.id
-status: up
-code: 200
-responseTime: 4322
-lastUpdated: 2023-12-02T23:20:30.309Z
+status: down
+code: 502
+responseTime: 3554
+lastUpdated: 2023-12-03T13:50:10.218Z
 startTime: 2023-07-30T04:18:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
