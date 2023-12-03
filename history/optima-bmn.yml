@@ -1,7 +1,7 @@
 url: https://optima-bmn.unej.ac.id
-status: up
-code: 200
-responseTime: 2546
-lastUpdated: 2023-12-03T02:36:46.033Z
+status: down
+code: 502
+responseTime: 1309
+lastUpdated: 2023-12-03T07:35:05.338Z
 startTime: 2023-07-30T04:17:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
