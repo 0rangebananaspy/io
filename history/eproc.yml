@@ -1,7 +1,7 @@
 url: https://eproc.unej.ac.id
-status: up
-code: 200
-responseTime: 2433
-lastUpdated: 2023-12-02T23:20:23.110Z
+status: down
+code: 502
+responseTime: 1751
+lastUpdated: 2023-12-03T11:55:09.482Z
 startTime: 2023-07-30T04:17:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
