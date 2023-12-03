@@ -1,7 +1,7 @@
 url: https://sso.unej.ac.id
-status: up
-code: 200
-responseTime: 1576
-lastUpdated: 2023-12-02T23:17:36.936Z
+status: down
+code: 502
+responseTime: 273
+lastUpdated: 2023-12-03T07:45:11.644Z
 startTime: 2023-07-21T11:03:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
