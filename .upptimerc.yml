@@ -131,6 +131,16 @@ sites:
     url: https://gitea.unej.ac.id/
   - name: Gitness
     url: https://gitness.unej.ac.id/
+  - name: Wiki
+    url: https://wiki.tik.unej.ac.id/
+  - name: SIM RSGM
+    url: https://simrsgm.unej.ac.id/
+  - name: PRTG
+    url: https://prtg.unej.ac.id/
+  - name: SIPALU
+    check: "tcp-ping"
+    url: 103.241.204.234
+    port: 80
 
 i18n:
   footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim PUSDATIN [UPA TIK UNEJ](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
