@@ -6,8 +6,8 @@
     "slug": "dns-205",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "80.43%",
-    "uptimeWeek": "97.20%",
+    "uptimeDay": "80.36%",
+    "uptimeWeek": "97.19%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.72%",
     "time": 230,
@@ -16,7 +16,7 @@
     "timeMonth": 235,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-12-14": 282,
+      "2023-12-14": 283,
       "2023-11-24": 306
     }
   },
@@ -27,8 +27,8 @@
     "slug": "dns-206",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "80.44%",
-    "uptimeWeek": "97.21%",
+    "uptimeDay": "80.36%",
+    "uptimeWeek": "97.19%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.72%",
     "time": 230,
@@ -37,7 +37,7 @@
     "timeMonth": 234,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-12-14": 282,
+      "2023-12-14": 283,
       "2023-11-24": 304
     }
   },
@@ -329,7 +329,7 @@
     "slug": "siremun",
     "status": "up",
     "uptime": "95.27%",
-    "uptimeDay": "16.15%",
+    "uptimeDay": "16.22%",
     "uptimeWeek": "47.26%",
     "uptimeMonth": "84.99%",
     "uptimeYear": "95.27%",
@@ -678,7 +678,7 @@
     "uptime": "79.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.41%",
+    "uptimeMonth": "34.40%",
     "uptimeYear": "79.79%",
     "time": 2962,
     "timeDay": 1329,
@@ -686,7 +686,7 @@
     "timeMonth": 2402,
     "timeYear": 2962,
     "dailyMinutesDown": {
-      "2023-12-14": 393,
+      "2023-12-14": 394,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -745,7 +745,7 @@
     "slug": "kawanda",
     "status": "up",
     "uptime": "85.76%",
-    "uptimeDay": "45.41%",
+    "uptimeDay": "45.48%",
     "uptimeWeek": "48.99%",
     "uptimeMonth": "65.42%",
     "uptimeYear": "85.76%",
@@ -862,7 +862,7 @@
     "timeMonth": 2414,
     "timeYear": 2295,
     "dailyMinutesDown": {
-      "2023-12-14": 393,
+      "2023-12-14": 394,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -1474,7 +1474,7 @@
     "slug": "optima-bmn",
     "status": "up",
     "uptime": "96.32%",
-    "uptimeDay": "19.48%",
+    "uptimeDay": "19.55%",
     "uptimeWeek": "45.57%",
     "uptimeMonth": "84.56%",
     "uptimeYear": "96.32%",
@@ -1589,7 +1589,7 @@
     "slug": "eproc",
     "status": "up",
     "uptime": "96.37%",
-    "uptimeDay": "15.22%",
+    "uptimeDay": "15.29%",
     "uptimeWeek": "46.19%",
     "uptimeMonth": "84.85%",
     "uptimeYear": "96.37%",
@@ -1665,7 +1665,7 @@
     "status": "down",
     "uptime": "96.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.24%",
+    "uptimeWeek": "54.23%",
     "uptimeMonth": "86.78%",
     "uptimeYear": "96.20%",
     "time": 1173,
@@ -1674,7 +1674,7 @@
     "timeMonth": 966,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2023-12-14": 394,
+      "2023-12-14": 395,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1298,
@@ -1891,7 +1891,7 @@
     "status": "down",
     "uptime": "92.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.91%",
+    "uptimeWeek": "58.90%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "92.76%",
     "time": 1552,
@@ -1900,7 +1900,7 @@
     "timeMonth": 1417,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2023-12-14": 394,
+      "2023-12-14": 395,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 838,
@@ -1966,7 +1966,7 @@
     "timeMonth": 1428,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2023-12-14": 394,
+      "2023-12-14": 395,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -2044,18 +2044,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prtg.unej.ac.id.ico",
     "slug": "prtg",
     "status": "down",
-    "uptime": "2.57%",
-    "uptimeDay": "2.57%",
-    "uptimeWeek": "2.57%",
-    "uptimeMonth": "2.57%",
-    "uptimeYear": "2.57%",
+    "uptime": "1.39%",
+    "uptimeDay": "1.39%",
+    "uptimeWeek": "1.39%",
+    "uptimeMonth": "1.39%",
+    "uptimeYear": "1.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-14": 1
+      "2023-12-14": 2
     }
   },
   {
@@ -2064,18 +2064,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sipalu",
     "status": "down",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-14": 1
+      "2023-12-14": 2
     }
   }
 ]
