@@ -1,7 +1,7 @@
 url: https://mmp.unej.ac.id
-status: up
-code: 200
-responseTime: 2367
-lastUpdated: 2023-12-14T06:30:56.641Z
+status: down
+code: 502
+responseTime: 1553
+lastUpdated: 2023-12-14T07:25:06.924Z
 startTime: 2023-07-21T11:02:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
