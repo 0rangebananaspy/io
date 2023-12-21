@@ -1,7 +1,7 @@
 url: https://siakad.unej.ac.id
-status: up
-code: 200
-responseTime: 3822
-lastUpdated: 2023-12-21T02:57:38.942Z
+status: down
+code: 502
+responseTime: 1658
+lastUpdated: 2023-12-21T08:35:10.145Z
 startTime: 2023-07-21T11:02:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
