@@ -1,7 +1,7 @@
 url: https://qr.unej.ac.id
-status: up
-code: 200
-responseTime: 1359
-lastUpdated: 2023-12-29T15:57:51.647Z
+status: down
+code: 502
+responseTime: 19410
+lastUpdated: 2023-12-29T18:30:02.383Z
 startTime: 2023-07-30T04:17:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
