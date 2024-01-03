@@ -114,7 +114,7 @@ sites:
   - name: SIMULAN
     url: https://simulan.unej.ac.id
   - name: Neo Feeder 2023
-    url: https://feeder.unej.ac.id
+    url: https://feeder.unej.ac.id/#/login
   - name: SRD
     url: https://srd.unej.ac.id
   - name: Mobile-SIAKAD
@@ -141,6 +141,14 @@ sites:
     check: "tcp-ping"
     url: 103.241.204.234
     port: 80
+  - name: Survei Kepuasan
+    url: https://survei.unej.ac.id/
+  - name: Insentif Publikasi
+    url: https://insentif.unej.ac.id/
+  - name: E-Training LPMPP
+    url: https://e-traininglp3m.unej.ac.id/
+  - name: QR Event
+    url: https://qr.unej.ac.id/login
 
 i18n:
-  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim PUSDATIN [UPA TIK UNEJ](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023.
+  footer: Aplikasi ini dibuat menggunakan [Svelte](https://svelte.dev/) dan [Sapper](https://sapper.svelte.dev/) oleh tim PUSDATIN [UPA TIK UNEJ](https://tik.unej.ac.id). Dikembangkan dan dikelola oleh [orangebananaspy](https://t.me/orangebananaspy), [sugus](https://t.me/gustids), & [kiplink](https://t.me/Kiplink). 2023 - 2024.
