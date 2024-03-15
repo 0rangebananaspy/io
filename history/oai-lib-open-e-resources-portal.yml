@@ -1,7 +1,7 @@
 url: https://oailib.unej.ac.id/vufind
-status: up
-code: 200
-responseTime: 2356
-lastUpdated: 2024-03-14T23:18:02.258Z
+status: down
+code: 502
+responseTime: 1000
+lastUpdated: 2024-03-15T02:56:03.425Z
 startTime: 2023-07-21T15:10:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
