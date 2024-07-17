@@ -133,6 +133,8 @@ sites:
     url: https://gitness.unej.ac.id/
   - name: Wiki
     url: https://wiki.tik.unej.ac.id/
+  - name: Wiki UNEJ
+    url: https://wiki.unej.ac.id/
   - name: SIM RSGM
     url: https://simrsgm.unej.ac.id/
   - name: PRTG
