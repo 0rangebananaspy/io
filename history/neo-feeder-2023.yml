@@ -1,7 +1,7 @@
 url: https://feeder.unej.ac.id/#/login
-status: up
-code: 200
-responseTime: 827
-lastUpdated: 2024-08-02T04:39:35.610Z
+status: down
+code: 502
+responseTime: 19292
+lastUpdated: 2024-08-02T07:26:50.932Z
 startTime: 2023-07-30T04:18:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
