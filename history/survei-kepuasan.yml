@@ -1,7 +1,7 @@
 url: https://survei.unej.ac.id/
-status: up
-code: 200
-responseTime: 1428
-lastUpdated: 2024-09-18T23:20:02.596Z
+status: down
+code: 502
+responseTime: 3488
+lastUpdated: 2024-09-19T02:39:42.417Z
 startTime: 2024-01-03T08:05:59.213Z
 generator: Upptime <https://github.com/upptime/upptime>
